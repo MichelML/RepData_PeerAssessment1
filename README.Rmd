@@ -6,6 +6,9 @@ output: html_document
 ---
 ##The dumbell lift, are you doing it right?
 ###Introduction
+
+(see the html version of this file at [michelml.github.io/coursera-specialization-datascience-ml-p2/](http://michelml.github.io/coursera-specialization-datascience-ml-p2/))
+
 In this project, your goal is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways. The five different ways are : 
 
 -- exactly according to the specification (Class A)  
